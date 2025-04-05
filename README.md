@@ -10,8 +10,8 @@ AI Personalized Tutor - How to Run
 
 4. Ask questions to your AI tutor and learn!
 
-![Chat interface](Screenshots/Screenshot 1.png)
+![Chat interface](Screenshots/Screenshot%201.png)
 
-![Chat interface](Screenshots/Screenshot 2.png)
+![Chat interface](Screenshots/Screenshot%202.png)
 
-![Chat interface](Screenshots/Screenshot 3.png)
+![Chat interface](Screenshots/Screenshot%203.png)
