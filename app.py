@@ -6,7 +6,7 @@ app = Flask(__name__, static_url_path='/static', static_folder='static', templat
 CORS(app)
 
 # Replace this with your actual OpenRouter API key
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "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"
 
 @app.route("/")
 def index():
